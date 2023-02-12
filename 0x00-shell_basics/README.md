@@ -9,3 +9,4 @@
 9-firstdirdeletion deletes a directory
 10-back changes the working directory to the previous one
 11-lists lists the contents of three directories in long format
+12-file_type prints the type of file iamafile is
