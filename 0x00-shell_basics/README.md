@@ -11,3 +11,4 @@
 11-lists lists the contents of three directories in long format
 12-file_type prints the type of file iamafile is
 13-symbolic_link creates a symbolic link for a file
+14-copy_html copies all html files to the parent directory
