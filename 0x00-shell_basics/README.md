@@ -10,3 +10,4 @@
 10-back changes the working directory to the previous one
 11-lists lists the contents of three directories in long format
 12-file_type prints the type of file iamafile is
+13-symbolic_link creates a symbolic link for a file
