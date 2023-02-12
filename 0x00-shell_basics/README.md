@@ -2,3 +2,4 @@
 1-listit displays the contents list of the current directory
 2-bring_me_home changes the working directory to the home directory
 3-listfiles lists in long format the contnts of a directory
+4-listmorefiles displays all the content of a directory including hidden files.
