@@ -8,3 +8,6 @@
 7-everybody gives all users execution rights
 8-James_Bond gives all permissions to only other users
 10-mirror_permissions changes the permission for a file to reflect permissions in another
+11-directories_permissions gives execution rights to subdirectories
+12-directory_permissions creates a directory while assigning it permissions
+13-change_group changes the owner of the group 
