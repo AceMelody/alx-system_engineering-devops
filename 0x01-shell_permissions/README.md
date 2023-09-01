@@ -13,3 +13,6 @@
 11-directories adds execute permission to all subdirectories in the current directory
 12-directory permissions creates a dorectory with the permissions 751
 13-change_group changes the group owmer of hello
+100-change_owner_and_group changes the owner and group of all files and directories in the current directory
+101-symbolic_link_permissions changesthe owne and the grou  owner ofthe symbolic link _hello
+102-if_only changes tho owner of hello to betty only if it is owned by guillaume
