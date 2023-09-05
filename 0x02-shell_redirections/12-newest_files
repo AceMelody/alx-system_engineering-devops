@@ -1,0 +1,3 @@
+#!/bin/bash
+find . -type f -printf "%f
+"|sort -rn|head -10
