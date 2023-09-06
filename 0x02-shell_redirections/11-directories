@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -f1|find . -type d -maxdepth 1|wc -l
+find . -type d -mindepth 1|ls -f1|wc -l
